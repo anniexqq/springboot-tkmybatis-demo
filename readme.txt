@@ -10,7 +10,7 @@ postman请求：http://localhost:8081/user/all?pageNum=1&pageSize=3
 postman请求：http://localhost:8081/user/add
 入参：
 {
-	"userName":"mimu",
+	"userName":"nik",
 	"password":"1234",
 	"phone":"122345555"
 }
